@@ -7,12 +7,14 @@
     - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
   - Pályázatok
     - [Aktuális](docs/palyazatok/aktualis.md)
-    - [Az egyesület tevékenységének támogatása](docs/palyazatok/tamogatas.md)
-    - [Szja 1 % felhasználása](docs/palyazatok/egysza.md)
-  - Braille írás
-    - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/braille/allasfoglalas.md)
-    - [Louis Braille élete](docs/braille/louis_braille.md)
-    - [Marburg Medium szabvány](docs/braille/marburg_medium.md)
+    - [Szja 1 %](docs/palyazatok/egysza.md)
+  - Akadálymentesítés
+    - Tapintható írás
+      - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/braille/allasfoglalas.md)
+      - [Marburg Medium szabvány](docs/braille/marburg_medium.md)
+      - [Louis Braille élete](docs/braille/louis_braille.md)
+    - [Közlekedés](docs/braille/kozlekedes.md)
+
   - Hivatkozások
     - [Társegyesületek](docs/hivatkozasok/tarsegyesuletek.md)
     - [Partnereink](docs/hivatkozasok/partnereink.md)
