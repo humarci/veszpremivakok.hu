@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Veszpremivakok</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta name="robots" content="noindex">
+    <link rel="stylesheet" href="//unpkg.com/docsify-themeable/dist/css/theme-simple-dark.css">
+    <style>
+        .sidebar>h1 img {
+            width: 50%;
+        }
+        
+        #main img {
+            border: 1px solid #e1e4e8;
+            border-radius: 4px
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            loadSidebar: true,
+            alias: {
+                '/.*/_sidebar.md': '/_sidebar.md',
+            },
+            subMaxLevel: 3,
+            sidebarDisplayLevel: 1, // set sidebar display level
+            logo: 'assets/logo.png',
+            name: 'Veszpremivakok',
+            // repo: 'https://github.com/valami',
+            loadSidebar: true,
+            search: 'auto',
+            themeColor: '#0366d6',
+            auto2top: true,
+            notFoundPage: 'my404.md',
+            search: {
+                placeholder: 'Keresés...',
+                noData: '😒 Nincs találat...'
+            },
+            variablesFile : 'variables.json',
+            variablesFileType : 'json'
+        }
+    </script>
+    <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+    <script src="//unpkg.com/docsify-themeable"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+    <script src="//unpkg.com/docsify-copy-code"></script>
+    <script src="//unpkg.com/docsify/lib/plugins/zoom-image.min.js"></script>
+    <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+    <script src="//unpkg.com/docsify-variables/dist/docsify-variables.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+    <!-- Lokális -->
+    <script src="/assets/js/docsify-pagination.min.js"></script>
+    <link rel="stylesheet" href="/assets/style/additionastyle.css" />
+
+</body>
+
+</html>

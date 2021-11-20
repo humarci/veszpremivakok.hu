@@ -1,0 +1,33 @@
+<!-- docs/_sidebar.md -->
+
+  - Pályázatok
+    - [Aktuális](docs/palyazatok/aktualis.md)
+    - [Az egyesület tevékenységének támogatása](docs/palyazatok/tamogatas.md)
+    - [Szja 1 % felhasználása](docs/palyazatok/egysza.md)
+  - Braille írás
+    - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/braille/allasfoglalas.md)
+    - [Louis Braille élete](docs/braille/louis_braille.md)
+    - [Marburg Medium szabvány](docs/braille/marburg_medium.md)
+  - Hivatkozások
+    - [Társegyesületek](docs/hivatkozasok/tarsegyesuletek.md)
+    - [Partnereink](docs/hivatkozasok/partnereink.md)
+    - [Támogatóink](docs/hivatkozasok/tamogatoink.md)
+    - [Egyebek](docs/hivatkozasok/egyebek.md)
+  - Jogszabályok
+    - [1998. ÉVI XXVI. TÖRVÉNY A FOGYATÉKOS SZEMÉLYEK  JOGAIRÓL ÉS ESÉLYEGYENLŐSÉGÜK BIZTOSÍTÁSÁRÓL](ures.md)
+    - [AZ ÚJ ORSZÁGOS FOGYATÉKOSÜGYI PROGRAMRÓL](ures.md)
+    - [CSALÁDI PÓTLÉK](ures.md)
+    - [FOGYATÉKOSSÁGGAL ÉLŐ HALLGATÓK ESÉLYEGYENLŐSÉGE](ures.md)
+    - [HATÁLYOS JOGSZABÁLYOK A VAKVEZETŐ KUTYÁKRÓL](ures.md)
+    - [KORMÁNYRENDELET A PARKOLÁSI IGAZOLVÁNYRÓL](ures.md)
+    - [MÓDOSULT A III. CSOP. ROKKANTSÁGI NYUGDÍJ MELLETTI KERESŐTEVÉKENYSÉG](ures.md)
+    - [ORSZÁGOS FOGYATÉKOSÜGYI PROGRAMRÓL](ures.md)
+    - [POSTAI KÜLDEMÉNYEKRŐL](ures.md)
+    - [SORON KÍVÜLI EMELÉS](ures.md)
+    - [UTAZÁSI KEDVEZMÉNYEKRŐL](ures.md)
+    - [UTAZÁSI KÖLTSÉGTÉRÍTÉS](ures.md)
+    - [VÉDENDŐ FOGYASZTÓK](ures.md)
+  - Rólunk
+    - [Alapszabályunk](ures.md)
+    - [Közhasznúsági beszámolók](ures.md)
+  - [📧 Kapcsolat](docs/kapcsolat.md)
