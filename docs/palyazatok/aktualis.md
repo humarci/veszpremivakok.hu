@@ -1,3 +1,3 @@
 # Aktuális
 
-Feltöltés alatt...
+Jelenleg nincs aktuális pályázat az oldalon.
