@@ -1,4 +1,4 @@
-<img src="${var.weburl}/assets/logo.png" class="center-img"> 
+<img src="${var.weburl}/assets/logo.svg" class="center-img"> 
 
 Vakok és Gyengénlátók Veszprém Megyei Egyesülete <br>
 8200. Veszprém, Kossuth L. u. 10. I. em. 114.
