@@ -10,10 +10,10 @@
     - [Szja 1 %](docs/palyazatok/egysza.md)
   - Akadálymentesítés
     - Tapintható írás
-      - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/braille/allasfoglalas.md)
-      - [Marburg Medium szabvány](docs/braille/marburg_medium.md)
-      - [Louis Braille élete](docs/braille/louis_braille.md)
-    - [Közlekedés](docs/braille/kozlekedes.md)
+      - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/akadalymentesites/allasfoglalas.md)
+      - [Marburg Medium szabvány](docs/akadalymentesites/marburg_medium.md)
+      - [Louis Braille élete](docs/akadalymentesites/louis_braille.md)
+    - [Közlekedés](docs/akadalymentesites/kozlekedes.md)
 
   - Hivatkozások
     - [Társegyesületek](docs/hivatkozasok/tarsegyesuletek.md)
