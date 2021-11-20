@@ -4,6 +4,7 @@
   - Rólunk
     - [Tevékenységeink](docs/rolunk/tevekenysegeink.md)
     - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
+    - [Kiadványaink](docs/rolunk/kiadvanyaink.md)
     - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
   - Pályázatok
     - [Aktuális](docs/palyazatok/aktualis.md)
