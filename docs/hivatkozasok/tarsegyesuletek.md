@@ -14,12 +14,6 @@ Dr. Tóka László
 
 <hr>
 
-**Pápai Csoport**
-
-www.mvgyoszpapaicsoport.eoldal.hu
-
-<hr>
-
 **Magyar Vakok és Gyengénlátók Bács-Kiskun Megyei Egyesülete**
 
 6000 Kecskemét, Katona J. tér 8.
