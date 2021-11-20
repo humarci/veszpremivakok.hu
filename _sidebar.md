@@ -2,6 +2,7 @@
 
   - [📰 Hírek](docs/hirek/hirfolyam.md)
   - Rólunk
+    - [Tevékenységeink](docs/rolunk/tevekenysegeink.md)
     - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
     - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
   - Pályázatok
