@@ -1,7 +1,3 @@
 # Alapszabályunk
 
-A VAKOK ÉS GYENGÉNLÁTÓK VESZPRÉM MEGYEI EGYESÜLETÉNEK ALAPSZABÁLYA
-
-(Módosított és egységesített szöveg)
-
-feltöltés alatt..
+Letölthető pdf formátumban [innen](assets/files/ALAPSZABALY_2017_DEC_hatalyos.pdf).
