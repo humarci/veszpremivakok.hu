@@ -1,5 +1,18 @@
-# Szja 1 % felhasználása
+# Szja 1% felajánlás
 
-A Vakok és Gyengénlátók Veszprém Megyei Egyesülete a 2010. évi jövedelemadó 1 %-ának felajánlása nyomán 246.263,- Ft támogatásban részesült.
+ADÓSZÁM:
 
-Előző évről torténő tartalékolással együtt 2012. évben ebből az egyesület 172.403,- Ft-ot használt fel súlyos látássérültek számára életvitelt könnyítő eszközök vásárlására, valamint további 172.403,- Ft-ot alapszabályunkban megfogalmazott közhasznú célok megvalósítására, ügyfélszolgálat fenntartására. A 2010. évi felajánlásból tartalékoltunk 219.796,- Ft-ot.
+**18937435-1-19**
+
+Kedves Támogatónk!
+
+Tisztelettel kérjük, hogy személyi jövedelemadója 1%-ával támogassa célkitűzéseinket, programjainkat, melyekkel a vak emberek helyzetének jobbításán fáradozunk. Felajánlása, mely Önnek most nem jelent anyagi áldozatot, látássérült embertársainknak óriási segítség.
+Kérjük, éljen a lehetőséggel, ajánlja fel befizetett adója 1%-át, hogy a megyében élő látássérültek életminőségének javításán tovább dolgozhassunk.
+
+**Segítségét köszönettel fogadjuk!**
+
+<hr>
+
+## Szja 1 % felhasználása
+
+Feltöltés alatt...
