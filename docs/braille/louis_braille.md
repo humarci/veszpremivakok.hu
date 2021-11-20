@@ -1,6 +1,6 @@
 # Louis Braille élete
 
-<img src="/assets/img/louis_braille.jpg"> <br>
+<img src="${var.weburl}/assets/img/louis_braille.jpg"> <br>
 (1809-1852)
 
 Braille egy Párizs közeli kisfaluban született Coupvary-ban 1809. január 4-én. Nem vakként született, három éves korában egy baleset következtében vesztette el a látását. Édesapja bőrdíszműves és szíjgyártó mester volt, így aztán az apa műhelye jelentette a gyermek számára a játszóteret. Ott próbálgatta édesapja mesterségét, ami egy alkalommal nagyon rosszul sült el. Egy lukak készítésére szolgáló éles szerszámmal játszott, amikor is a kis Louis megcsúszott, és megsebezte a szemét. A seb elfertőződött, a fertőzés pedig hamarosan mind a két szeme világának elvesztését eredményezte.
