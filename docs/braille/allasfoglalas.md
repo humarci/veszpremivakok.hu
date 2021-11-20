@@ -12,13 +12,12 @@ A Braille írásban betűstílusok (pl. dőlt, aláhúzott és félkövér kieme
 
 Az alapvető higiénés feltételek, a hőmérsékleti, időjárási viszonyok, és a megtalálhatóság szempontjából a Braille információ hordozók beltérben legyenek elhelyezve.
 
- 
 
-Magyarországon a Braille-feliratot vagy kiadványt a magyar pontírás szabályainak megfelelően kell elkészíteni.
+Magyarországon a Braille-feliratot vagy kiadványt a magyar pontírás szabályainak megfelelően kell elkészíteni. A Magyar Braille ABC megtalálható:a www.mvgyosz.hu/brailleiras.htm címen.megtalálható:a www.mvgyosz.hu/brailleiras.htm címen.
 
 A pontok magassága legkevesebb 0,35 mm legyen.
 
-A pontok méretére és távolságára vonatkozó irányelveket a Marburg medium szabvány határozza meg. Annak betartása az olvashatóság szempontjából feltétlenül szükséges, mert a szabványban a betűk méretei a pontírást olvasó ujj begyéhez vannak igazítva.
+A pontok méretére és távolságára vonatkozó irányelveket a Marburg medium szabvány határozza meg. Annak betartása az olvashatóság szempontjából feltétlenül szükséges, mert a szabványban a betűk méretei a pontírást olvasó ujj begyéhez vannak igazítva. Megtalálható a: www.mvgyosz.hu/braille-írás címen
 
 A Braille felirat, a funkciónak megfelelő, sima felületű, tartós anyagra kerüljön. A pontírású szövegnek több évig jól olvashatónak kell lennie, használat közben a pontok ne deformálódjanak.
 
@@ -28,6 +27,6 @@ A tájékoztató táblák esetében ajánlott a műanyag használata.
 
 A köztéri maketteken, műalkotásokon a Braille felirat lehetőség szerint szintén műanyag felületre kerüljön
 
- 
+
 
 Alapfeltételként javasoljuk, hogy a feliratok és kiadványok tervezésekor egy, az MVGYOSZ, vagy valamely tagegyesülete által ajánlott, Braille írást jól ismerő, látó személy, elkészítésekor pedig (a pontírás szabályait és az olvashatóságot megvizsgálva) egy erre kiképzett vak ember végezze a táblák tesztelését.
