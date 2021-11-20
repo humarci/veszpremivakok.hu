@@ -1,5 +1,6 @@
 <!-- docs/_sidebar.md -->
 
+  - [📰 Hírek](docs/hirek/hirfolyam.md)
   - Rólunk
     - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
     - [Közhasznúsági beszámolók](docs/rolunk/ures.md)
