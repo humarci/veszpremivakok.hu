@@ -1,0 +1,2 @@
+# veszpremivakok.hu
+Veszprémivakok weboldala
