@@ -26,10 +26,6 @@ péntek: 9-11 óráig
 Újélet u. 8. sz. (volt Kaszinó épület)
 Minden hónap első keddjén de. 10-12 óráig
 
-- **Balatonfüred**
-Közösségi Ház,Kossuth L.u.
-Minden hónap első keddjén 10-11 óráig
-
 - **Pápa**:
 Városháza nagyterem.
 Minden hónap második keddjén 14-16 óráig
@@ -40,7 +36,7 @@ Batsányi u. 1. (Városi Könyvtár fsz.)
 Minden hónap első keddjén 10-11 óráig
 
 - **Várpalota**:
-Honvéd u. 2. (Ápolóotthonban)
+Honvéd u. 2. (Szépkorúak otthona)
 Minden hónap első hétfőjén 15-16 óráig
 
 - **Zirc**:
