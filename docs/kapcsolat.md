@@ -4,9 +4,9 @@ Vakok és Gyengénlátók Veszprém Megyei Egyesülete
 
 Postacím: 8200. Veszprém, Kossuth L. u. 10. I. em. 114.
 
-Tel./Fax: 06-88/405-105;
+Tel.: 06-88/405-105;
 
-E-mail: veszpremvakok@upcmail.hu
+E-mail: veszpremivakok@gmail.com
 
 Elnök: Csehné Huszics Márta
 
