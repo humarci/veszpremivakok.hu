@@ -29,9 +29,9 @@
     - [UTAZÁSI KÖLTSÉGTÉRÍTÉS](ures.md)
     - [VÉDENDŐ FOGYASZTÓK](ures.md)
   - Kapcsolataink
-    - [Társegyesületek](docs/Kapcsolataink/tarsegyesuletek.md)
-    - [Partnereink](docs/Kapcsolataink/partnereink.md)
-    - [Támogatóink](docs/Kapcsolataink/tamogatoink.md)
-    - [Egyebek](docs/Kapcsolataink/egyebek.md)
+    - [Társegyesületek](docs/kapcsolataink/tarsegyesuletek.md)
+    - [Partnereink](docs/kapcsolataink/partnereink.md)
+    - [Támogatóink](docs/kapcsolataink/tamogatoink.md)
+    - [Egyebek](docs/kapcsolataink/egyebek.md)
 
   - [📧 Kapcsolat](docs/kapcsolat.md)
