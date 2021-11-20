@@ -14,12 +14,6 @@
       - [Marburg Medium szabvány](docs/akadalymentesites/marburg_medium.md)
       - [Louis Braille élete](docs/akadalymentesites/louis_braille.md)
     - [Közlekedés](docs/akadalymentesites/kozlekedes.md)
-
-  - Hivatkozások
-    - [Társegyesületek](docs/hivatkozasok/tarsegyesuletek.md)
-    - [Partnereink](docs/hivatkozasok/partnereink.md)
-    - [Támogatóink](docs/hivatkozasok/tamogatoink.md)
-    - [Egyebek](docs/hivatkozasok/ures.md)
   - Jogszabályok
     - [1998. ÉVI XXVI. TÖRVÉNY A FOGYATÉKOS SZEMÉLYEK  JOGAIRÓL ÉS ESÉLYEGYENLŐSÉGÜK BIZTOSÍTÁSÁRÓL](ures.md)
     - [AZ ÚJ ORSZÁGOS FOGYATÉKOSÜGYI PROGRAMRÓL](ures.md)
@@ -34,5 +28,10 @@
     - [UTAZÁSI KEDVEZMÉNYEKRŐL](ures.md)
     - [UTAZÁSI KÖLTSÉGTÉRÍTÉS](ures.md)
     - [VÉDENDŐ FOGYASZTÓK](ures.md)
+  - Kapcsolataink
+    - [Társegyesületek](docs/Kapcsolataink/tarsegyesuletek.md)
+    - [Partnereink](docs/Kapcsolataink/partnereink.md)
+    - [Támogatóink](docs/Kapcsolataink/tamogatoink.md)
+    - [Egyebek](docs/Kapcsolataink/egyebek.md)
 
   - [📧 Kapcsolat](docs/kapcsolat.md)
