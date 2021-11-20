@@ -3,7 +3,7 @@
   - [📰 Hírek](docs/hirek/hirfolyam.md)
   - Rólunk
     - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
-    - [Közhasznúsági beszámolók](docs/rolunk/ures.md)
+    - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
   - Pályázatok
     - [Aktuális](docs/palyazatok/aktualis.md)
     - [Az egyesület tevékenységének támogatása](docs/palyazatok/tamogatas.md)
