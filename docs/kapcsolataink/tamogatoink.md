@@ -7,13 +7,13 @@ Pápa Város Önkormányzata: <br>
 http://www.papa.hu/
 
 Ajka Város Önkormányzata: <br>
-http://www.ajka.hu/main.php?active_chapter=1
+https://www.ajka.hu/
 
 Tapolca Város Önkormányzata: <br>
-http://www.tapolca.hu/index.php?option=com_content&view=article&id=93&Itemid=464&lang=hu
+https://www.tapolca.hu/uj/
 
 Várpalota Város Önkormányzata: <br>
-http://varpalota.hu/index.php/hu/hivatal
+http://www.varpalota.hu/
 
 Zirc Város Önkormányzata: <br>
 http://www.zirc.hu/onkormanyzat-rendeletek.html
