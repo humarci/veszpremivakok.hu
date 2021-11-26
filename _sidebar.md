@@ -1,38 +1,21 @@
-<!-- docs/_sidebar.md -->
+- [Hírek](docs/hirek/hirfolyam.md)
+- Rólunk
+  - [Tevékenységeink](docs/rolunk/tevekenysegeink.md)
+  - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
+  - [Kiadványaink](docs/rolunk/kiadvanyaink.md)
+  - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
+- Pályázatok
+  - [Aktuális](docs/palyazatok/aktualis.md)
+  - [Szja 1 %](docs/palyazatok/egysza.md)
+- Akadálymentesítés
+  - Tapintható írás
+    - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/akadalymentesites/allasfoglalas.md)
+    - [Marburg Medium szabvány](docs/akadalymentesites/marburg_medium.md)
+    - [Louis Braille élete](docs/akadalymentesites/louis_braille.md)
+  - [Közlekedés](docs/akadalymentesites/kozlekedes.md)
+- Kapcsolataink
+  - [Partnereink](docs/kapcsolataink/partnereink.md)
+  - [Támogatóink](docs/kapcsolataink/tamogatoink.md)
+  - [Egyebek](docs/kapcsolataink/egyebek.md)
 
-  - [Hírek](docs/hirek/hirfolyam.md)
-  - Rólunk
-    - [Tevékenységeink](docs/rolunk/tevekenysegeink.md)
-    - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
-    - [Kiadványaink](docs/rolunk/kiadvanyaink.md)
-    - [Közhasznúsági beszámolók](docs/rolunk/beszamolo.md)
-  - Pályázatok
-    - [Aktuális](docs/palyazatok/aktualis.md)
-    - [Szja 1 %](docs/palyazatok/egysza.md)
-  - Akadálymentesítés
-    - Tapintható írás
-      - [Állásfoglalás a Magyar Braille írással készülő feliratok és kiadványok kialakításához](docs/akadalymentesites/allasfoglalas.md)
-      - [Marburg Medium szabvány](docs/akadalymentesites/marburg_medium.md)
-      - [Louis Braille élete](docs/akadalymentesites/louis_braille.md)
-    - [Közlekedés](docs/akadalymentesites/kozlekedes.md)
-  - Jogszabályok
-    - [1998. ÉVI XXVI. TÖRVÉNY A FOGYATÉKOS SZEMÉLYEK  JOGAIRÓL ÉS ESÉLYEGYENLŐSÉGÜK BIZTOSÍTÁSÁRÓL](ures.md)
-    - [AZ ÚJ ORSZÁGOS FOGYATÉKOSÜGYI PROGRAMRÓL](ures.md)
-    - [CSALÁDI PÓTLÉK](ures.md)
-    - [FOGYATÉKOSSÁGGAL ÉLŐ HALLGATÓK ESÉLYEGYENLŐSÉGE](ures.md)
-    - [HATÁLYOS JOGSZABÁLYOK A VAKVEZETŐ KUTYÁKRÓL](ures.md)
-    - [KORMÁNYRENDELET A PARKOLÁSI IGAZOLVÁNYRÓL](ures.md)
-    - [MÓDOSULT A III. CSOP. ROKKANTSÁGI NYUGDÍJ MELLETTI KERESŐTEVÉKENYSÉG](ures.md)
-    - [ORSZÁGOS FOGYATÉKOSÜGYI PROGRAMRÓL](ures.md)
-    - [POSTAI KÜLDEMÉNYEKRŐL](ures.md)
-    - [SORON KÍVÜLI EMELÉS](ures.md)
-    - [UTAZÁSI KEDVEZMÉNYEKRŐL](ures.md)
-    - [UTAZÁSI KÖLTSÉGTÉRÍTÉS](ures.md)
-    - [VÉDENDŐ FOGYASZTÓK](ures.md)
-  - Kapcsolataink
-    - [Társegyesületek](docs/kapcsolataink/tarsegyesuletek.md)
-    - [Partnereink](docs/kapcsolataink/partnereink.md)
-    - [Támogatóink](docs/kapcsolataink/tamogatoink.md)
-    - [Egyebek](docs/kapcsolataink/egyebek.md)
-
-  - [Kapcsolat](docs/kapcsolat.md)
+- [Kapcsolat](docs/kapcsolat.md)
