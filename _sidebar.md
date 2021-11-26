@@ -1,6 +1,6 @@
 <!-- docs/_sidebar.md -->
 
-  - [📰 Hírek](docs/hirek/hirfolyam.md)
+  - [Hírek](docs/hirek/hirfolyam.md)
   - Rólunk
     - [Tevékenységeink](docs/rolunk/tevekenysegeink.md)
     - [Alapszabályunk](docs/rolunk/alapszabalyunk.md)
@@ -35,4 +35,4 @@
     - [Támogatóink](docs/kapcsolataink/tamogatoink.md)
     - [Egyebek](docs/kapcsolataink/egyebek.md)
 
-  - [📧 Kapcsolat](docs/kapcsolat.md)
+  - [Kapcsolat](docs/kapcsolat.md)
