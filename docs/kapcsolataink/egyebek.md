@@ -9,17 +9,11 @@ www.museum.hu
 Vakbarát EUvonal.hu <br>
 www.euvonal.hu/index.php
 
-Nemzeti Együttműködési Alap <br>
-www.nea.hu
-
 Internetes szótárak (sztaki) <br>
 http://szotar.sztaki.hu/index.hu.jhtml
 
 European Blind Union <br>
 www.euroblind.org
-
-Országos Fogyatékosügyi Portál <br>
-www.fogyatekosugy.hu
 
 Origo hírportál vakbarát változata <br>
 www.origo.hu/hirmondo
@@ -29,9 +23,6 @@ www.index.hu/vakbarat
 
 Magyar Elektronikus Könyvtár <br>
 vmek.oszk.hu
-
-Netlap vakok és gyengénlátók számára  <br>
-www.klick.hu/akadalymentes
 
 Hangoskönyvek Internetes Áruháza <br>
 hangoskonyvek.hu
@@ -61,10 +52,6 @@ www.police.hu
 
 **MAGÁNHONLAPOK**:
 
-dr. Baranyiné Miks Mária <br>
-Vak költő kötetei <br>
-https://web.t-online.hu/miksmaria/
-
 Márkus Norbert honlapja <br>
 Vak zongoraművész <br>
 www.kfki.hu/~markus/cv_h.html
@@ -80,13 +67,6 @@ https://web.pr.hu/tornallyay
 Kormos Éva <br>
 Művésztanár (főiskolai oktató) <br>
 https://web.pr.hu/tornallyay/eva.htm
-
-“Hobby rádió” <br>
-www.pille.hu
-
-dr. Szőke László <br>
-ügyvéd <br>
-https://w3.hdsnet.hu/drszoke
 
 Legeza Ilona Irodalmi honlapja <br>
 Hangoskönyvtári katalógus, könyvismertetőkkel <br>
