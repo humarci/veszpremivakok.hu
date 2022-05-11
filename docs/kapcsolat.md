@@ -14,13 +14,13 @@ Irodavezető: Klausz Károlyné (Terike)
 
 Ügyfélfogadás: (Egyesületünk irodájában)
 
-hétfő: 9-11 óráig
+hétfő: 9-11:30 óráig
 
-kedd: 13-15 óráig
+kedd: 13-15:30 óráig
 
-szerda: 13-15 óráig
+szerda: 13-15:30 óráig
 
-péntek: 9-11 óráig
+péntek: 9-11:30 óráig
 
 - **Ajka**:
 Újélet u. 8. sz. (volt Kaszinó épület)
