@@ -1,5 +1,15 @@
 # Hírek
 
+## Számítógép-adomány segíti a Vakok és Gyengénlátók Veszprém Megyei Egyesületének munkáját
+
+A Veszprémi Lions Club felajánlásának köszönhetően a Vakok és Gyengénlátók Veszprém Megyei Egyesülete 2026. január 30-án, az egyesület irodájában új számítógépet vehetett át. Az adományt a Veszprém Lions Club elnöke, Dr. Leitold László adta át. <br>
+<br>
+Az eszköz átadásán túl a számítógép üzembe helyezését is segítették. Körmendi Tamás gondoskodott róla, hogy az előző számítógép minden fontos adata és beállítása maradéktalanul átkerüljön az új eszközre, így az egyesület munkája fennakadás nélkül folytatódhatott. Pápai Tamás pedig emellett azt az ígéretet tette, hogy a korábban használt, meghibásodott számítógépet megjavíttatja, amelyet az egyesület ezt követően tovább tud adományozni, vagy akár az irodában más tevékenységre, a tagok számára elérhetővé tud tenni. <br>
+<br>
+A számítógép az egyesület mindennapi működésében kiemelten fontos szerepet tölt be. Elengedhetetlen munkaeszköz a levelezéshez, a tagság nyilvántartásához, valamint az információszerzéshez. Ez utóbbi a látássérült emberek számára különös jelentőséggel bír, hiszen a digitális, akadálymentes tartalmak sok esetben kiváltják a hagyományos, síkírású forrásokat. A megfelelő segédprogramok és beállítások alkalmazásával a látássérült munkavállalók is hatékonyan és gördülékenyen tudják végezni feladataikat. <br>
+<br>
+Az adomány különösen időszerű volt, mivel a Windows 11-re történő átállás a közeljövőben szükségessé válik, a korábban használt számítógép pedig már nem működött megbízhatóan. Az egyesület hálás a Veszprém Lions Club támogatásáért és a közreműködők segítségéért, amely jelentős mértékben hozzájárul a szervezet zavartalan működéséhez.
+
 ## Látássérült személyek foglalkoztatása felmérés 2024
 
 Az egyik legnagyobb hazai nagyvállalat az MVGYOSZ-szel és tagegyesületeivel együttműködve azon dolgozik, hogy tudatosan, az érintettek véleményének megismerése révén tudjon felkészülni egy, a látássérült személyek számára is végezhető munkakör kialakítására. <br>
