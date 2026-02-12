@@ -10,6 +10,8 @@ A számítógép az egyesület mindennapi működésében kiemelten fontos szere
 <br>
 Az adomány különösen időszerű volt, mivel a Windows 11-re történő átállás a közeljövőben szükségessé válik, a korábban használt számítógép pedig már nem működött megbízhatóan. Az egyesület hálás a Veszprém Lions Club támogatásáért és a közreműködők segítségéért, amely jelentős mértékben hozzájárul a szervezet zavartalan működéséhez.
 
+![pic](${var.weburl}/assets/img/szamitogep_adomany.jpg)
+
 ## Látássérült személyek foglalkoztatása felmérés 2024
 
 Az egyik legnagyobb hazai nagyvállalat az MVGYOSZ-szel és tagegyesületeivel együttműködve azon dolgozik, hogy tudatosan, az érintettek véleményének megismerése révén tudjon felkészülni egy, a látássérült személyek számára is végezhető munkakör kialakítására. <br>
